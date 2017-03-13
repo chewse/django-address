@@ -13,4 +13,5 @@ $(function(){
     }).blur(function () {
       self.val(fmtd.val());
     });
+  });
 });
